@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* Educate Blue Menu Stylesheet*/
+
+.menu_bg {
+ position: absolute;
+ top: 0px;
+ height: 39px;
+ width: 100%;
+ background-color: #000;
+ border-bottom: 1px solid #333333;
+}
+#menu {
+/* background-color:#17A8E5; */
+ float:left;
+ width:100%;
+ border-bottom:1px solid #333333;
+ position:relative;
+ background-color: blue;
+}
